@@ -1,0 +1,15 @@
+C:\Users\Vijay Vattikuti\source\repos\ConsoleApp5\CountOfTargetStringsValidations\bin\Debug\net8.0\CountOfTargetStringsValidations.exe
+C:\Users\Vijay Vattikuti\source\repos\ConsoleApp5\CountOfTargetStringsValidations\bin\Debug\net8.0\CountOfTargetStringsValidations.deps.json
+C:\Users\Vijay Vattikuti\source\repos\ConsoleApp5\CountOfTargetStringsValidations\bin\Debug\net8.0\CountOfTargetStringsValidations.runtimeconfig.json
+C:\Users\Vijay Vattikuti\source\repos\ConsoleApp5\CountOfTargetStringsValidations\bin\Debug\net8.0\CountOfTargetStringsValidations.dll
+C:\Users\Vijay Vattikuti\source\repos\ConsoleApp5\CountOfTargetStringsValidations\bin\Debug\net8.0\CountOfTargetStringsValidations.pdb
+C:\Users\Vijay Vattikuti\source\repos\ConsoleApp5\CountOfTargetStringsValidations\obj\Debug\net8.0\CountOfTargetStringsValidations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vijay Vattikuti\source\repos\ConsoleApp5\CountOfTargetStringsValidations\obj\Debug\net8.0\CountOfTargetStringsValidations.AssemblyInfoInputs.cache
+C:\Users\Vijay Vattikuti\source\repos\ConsoleApp5\CountOfTargetStringsValidations\obj\Debug\net8.0\CountOfTargetStringsValidations.AssemblyInfo.cs
+C:\Users\Vijay Vattikuti\source\repos\ConsoleApp5\CountOfTargetStringsValidations\obj\Debug\net8.0\CountOfTargetStringsValidations.csproj.CoreCompileInputs.cache
+C:\Users\Vijay Vattikuti\source\repos\ConsoleApp5\CountOfTargetStringsValidations\obj\Debug\net8.0\CountOfTargetStringsValidations.sourcelink.json
+C:\Users\Vijay Vattikuti\source\repos\ConsoleApp5\CountOfTargetStringsValidations\obj\Debug\net8.0\CountOfTargetStringsValidations.dll
+C:\Users\Vijay Vattikuti\source\repos\ConsoleApp5\CountOfTargetStringsValidations\obj\Debug\net8.0\refint\CountOfTargetStringsValidations.dll
+C:\Users\Vijay Vattikuti\source\repos\ConsoleApp5\CountOfTargetStringsValidations\obj\Debug\net8.0\CountOfTargetStringsValidations.pdb
+C:\Users\Vijay Vattikuti\source\repos\ConsoleApp5\CountOfTargetStringsValidations\obj\Debug\net8.0\CountOfTargetStringsValidations.genruntimeconfig.cache
+C:\Users\Vijay Vattikuti\source\repos\ConsoleApp5\CountOfTargetStringsValidations\obj\Debug\net8.0\ref\CountOfTargetStringsValidations.dll

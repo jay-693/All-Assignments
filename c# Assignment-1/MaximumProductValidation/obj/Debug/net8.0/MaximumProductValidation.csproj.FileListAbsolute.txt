@@ -1,0 +1,15 @@
+C:\Users\Vijay Vattikuti\source\repos\ConsoleApp5\MaximumProductValidation\bin\Debug\net8.0\MaximumProductValidation.exe
+C:\Users\Vijay Vattikuti\source\repos\ConsoleApp5\MaximumProductValidation\bin\Debug\net8.0\MaximumProductValidation.deps.json
+C:\Users\Vijay Vattikuti\source\repos\ConsoleApp5\MaximumProductValidation\bin\Debug\net8.0\MaximumProductValidation.runtimeconfig.json
+C:\Users\Vijay Vattikuti\source\repos\ConsoleApp5\MaximumProductValidation\bin\Debug\net8.0\MaximumProductValidation.dll
+C:\Users\Vijay Vattikuti\source\repos\ConsoleApp5\MaximumProductValidation\bin\Debug\net8.0\MaximumProductValidation.pdb
+C:\Users\Vijay Vattikuti\source\repos\ConsoleApp5\MaximumProductValidation\obj\Debug\net8.0\MaximumProductValidation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vijay Vattikuti\source\repos\ConsoleApp5\MaximumProductValidation\obj\Debug\net8.0\MaximumProductValidation.AssemblyInfoInputs.cache
+C:\Users\Vijay Vattikuti\source\repos\ConsoleApp5\MaximumProductValidation\obj\Debug\net8.0\MaximumProductValidation.AssemblyInfo.cs
+C:\Users\Vijay Vattikuti\source\repos\ConsoleApp5\MaximumProductValidation\obj\Debug\net8.0\MaximumProductValidation.csproj.CoreCompileInputs.cache
+C:\Users\Vijay Vattikuti\source\repos\ConsoleApp5\MaximumProductValidation\obj\Debug\net8.0\MaximumProductValidation.sourcelink.json
+C:\Users\Vijay Vattikuti\source\repos\ConsoleApp5\MaximumProductValidation\obj\Debug\net8.0\MaximumProductValidation.dll
+C:\Users\Vijay Vattikuti\source\repos\ConsoleApp5\MaximumProductValidation\obj\Debug\net8.0\refint\MaximumProductValidation.dll
+C:\Users\Vijay Vattikuti\source\repos\ConsoleApp5\MaximumProductValidation\obj\Debug\net8.0\MaximumProductValidation.pdb
+C:\Users\Vijay Vattikuti\source\repos\ConsoleApp5\MaximumProductValidation\obj\Debug\net8.0\MaximumProductValidation.genruntimeconfig.cache
+C:\Users\Vijay Vattikuti\source\repos\ConsoleApp5\MaximumProductValidation\obj\Debug\net8.0\ref\MaximumProductValidation.dll

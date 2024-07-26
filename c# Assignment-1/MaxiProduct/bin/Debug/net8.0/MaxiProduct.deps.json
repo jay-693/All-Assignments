@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "MaxiProduct/1.0.0": {
+        "dependencies": {
+          "MaximumProductValidation": "1.0.0"
+        },
+        "runtime": {
+          "MaxiProduct.dll": {}
+        }
+      },
+      "MaximumProductValidation/1.0.0": {
+        "runtime": {
+          "MaximumProductValidation.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MaxiProduct/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MaximumProductValidation/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

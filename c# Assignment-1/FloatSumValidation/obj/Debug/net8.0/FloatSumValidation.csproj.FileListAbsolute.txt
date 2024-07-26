@@ -1,0 +1,15 @@
+C:\Users\Vijay Vattikuti\source\repos\ConsoleApp5\FloatSumValidation\bin\Debug\net8.0\FloatSumValidation.exe
+C:\Users\Vijay Vattikuti\source\repos\ConsoleApp5\FloatSumValidation\bin\Debug\net8.0\FloatSumValidation.deps.json
+C:\Users\Vijay Vattikuti\source\repos\ConsoleApp5\FloatSumValidation\bin\Debug\net8.0\FloatSumValidation.runtimeconfig.json
+C:\Users\Vijay Vattikuti\source\repos\ConsoleApp5\FloatSumValidation\bin\Debug\net8.0\FloatSumValidation.dll
+C:\Users\Vijay Vattikuti\source\repos\ConsoleApp5\FloatSumValidation\bin\Debug\net8.0\FloatSumValidation.pdb
+C:\Users\Vijay Vattikuti\source\repos\ConsoleApp5\FloatSumValidation\obj\Debug\net8.0\FloatSumValidation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vijay Vattikuti\source\repos\ConsoleApp5\FloatSumValidation\obj\Debug\net8.0\FloatSumValidation.AssemblyInfoInputs.cache
+C:\Users\Vijay Vattikuti\source\repos\ConsoleApp5\FloatSumValidation\obj\Debug\net8.0\FloatSumValidation.AssemblyInfo.cs
+C:\Users\Vijay Vattikuti\source\repos\ConsoleApp5\FloatSumValidation\obj\Debug\net8.0\FloatSumValidation.csproj.CoreCompileInputs.cache
+C:\Users\Vijay Vattikuti\source\repos\ConsoleApp5\FloatSumValidation\obj\Debug\net8.0\FloatSumValidation.sourcelink.json
+C:\Users\Vijay Vattikuti\source\repos\ConsoleApp5\FloatSumValidation\obj\Debug\net8.0\FloatSumValidation.dll
+C:\Users\Vijay Vattikuti\source\repos\ConsoleApp5\FloatSumValidation\obj\Debug\net8.0\refint\FloatSumValidation.dll
+C:\Users\Vijay Vattikuti\source\repos\ConsoleApp5\FloatSumValidation\obj\Debug\net8.0\FloatSumValidation.pdb
+C:\Users\Vijay Vattikuti\source\repos\ConsoleApp5\FloatSumValidation\obj\Debug\net8.0\FloatSumValidation.genruntimeconfig.cache
+C:\Users\Vijay Vattikuti\source\repos\ConsoleApp5\FloatSumValidation\obj\Debug\net8.0\ref\FloatSumValidation.dll
